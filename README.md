@@ -1,1 +1,0 @@
-# Garbage-Collecting-Agent
